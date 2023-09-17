@@ -1,8 +1,8 @@
 # Портфолио - инженер по тестированию
 ## Обо мне 
 
-Привет! Меня зовут ``Мария``, я junior-тестировщик. <br>                                       <br><img src="https://media.giphy.com/media/
-В этом репозитории вы можете найти мои проекты, выполненные во время обучения и практики.      8WZeVq2y8VbiGLDIoa/giphy.gif" width="200"/><br>
+Привет! Меня зовут Мария, я junior-тестировщик. <br>                                       <br><img src="https://media.giphy.com/media/8WZeVq2y8VbiGLDIoa/giphy.gif" width="200"/><br>
+В этом репозитории вы можете найти мои проекты, выполненные во время обучения и практики.      
 <br>
 
 ## Навыки и технологии
@@ -75,5 +75,7 @@
 ## Контактная информация
 - Тел.: 8-919-146-09-33
 - Email: markovamaria072@gmail.com
-- Telegram: https://t.me/Maria_md
+- <a href="https://t.me/Maria_md">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a> 
 
