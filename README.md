@@ -1,7 +1,7 @@
 # Портфолио - инженер по тестированию
 ## Обо мне 
 
-<img src="https://media.giphy.com/media/8WZeVq2y8VbiGLDIoa/giphy.gif" width="200"/> Привет! Меня зовут ``Мария``, я junior-тестировщик. <br>                                                         
+Привет! Меня зовут ``Мария``, я junior-тестировщик. <br>                                       <br><img src="https://media.giphy.com/media/8WZeVq2y8VbiGLDIoa/giphy.gif" width="200"/><br>
 В этом репозитории вы можете найти мои проекты, выполненные во время обучения и практики. 
 <br>
 
