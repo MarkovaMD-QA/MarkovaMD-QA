@@ -1,6 +1,7 @@
 # Портфолио - инженер по тестированию
 ## Обо мне 
 
+![image](https://github.com/MarkovaMD-QA/MarkovaMD-QA/assets/132784028/76dbe52c-c0c6-4898-8b58-9c2d72b716ea)
 Привет! Меня зовут Мария, я junior-тестировщик. <br>                                       <br><img src="https://media.giphy.com/media/8WZeVq2y8VbiGLDIoa/giphy.gif" width="200"/><br>
 В этом репозитории вы можете найти мои проекты, выполненные во время обучения и практики.      
 <br>
