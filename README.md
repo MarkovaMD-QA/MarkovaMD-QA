@@ -29,7 +29,7 @@
 
 <p>Как решала:<p>
 
-> <a href="https://www.notion.so/1-2-ebda4d999d0c4ced83e4908760f69c15">Ссылка на проект</a>
+> <a href="https://gray-hubcap-840.notion.site/1-2-ebda4d999d0c4ced83e4908760f69c15?pvs=4">Ссылка на проект</a>
  
  <p>Выводы (итоги):<p>
 <ol>
@@ -47,7 +47,7 @@
 
 <p>Как решала:<p>
 
-> <a href="https://www.notion.so/9c02979353034a74ace1f685619348ab">Ссылка на проект</a>
+> <a href="https://gray-hubcap-840.notion.site/9c02979353034a74ace1f685619348ab?pvs=4">Ссылка на проект</a>
  
  <p>Выводы (итоги):<p>
  <ol>
@@ -67,7 +67,7 @@
 
 <p>Как решала:<p>
 
-> <a href="https://www.notion.so/f4809e06e4864d218839e53551f20f6c?pvs=4">Ссылка на проект</a>
+> <a href="https://gray-hubcap-840.notion.site/f4809e06e4864d218839e53551f20f6c?pvs=4">Ссылка на проект</a>
  
  <p>Выводы (итоги):<p>
 <ol>
